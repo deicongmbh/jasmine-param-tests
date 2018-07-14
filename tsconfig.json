@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "sourceRoot": "./src",
+    "module": "commonjs",
+    "target": "es6",
+    "sourceMap": true,
+    "outDir": "build",
+    "typeRoots": ["node_modules/@types"]
+  }
+
+}
